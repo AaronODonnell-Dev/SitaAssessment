@@ -1,0 +1,52 @@
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\SitaTechAssessment.exe.config
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\SitaTechAssessment.exe
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\SitaTechAssessment.pdb
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.csprojAssemblyReference.cache
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\MainWindow.g.cs
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\App.g.cs
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment_MarkupCompile.cache
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment_MarkupCompile.lref
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\MainWindow.baml
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.g.resources
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.Properties.Resources.resources
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.csproj.GenerateResource.cache
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.csproj.CoreCompileInputs.cache
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.exe
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.pdb
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\DepartmentInfo.g.cs
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\DepartmentInfo.baml
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\nunit.engine.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\nunit.engine.api.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\nunit.engine.core.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\nunit.framework.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\bin\Debug\nunit.framework.xml
+C:\Users\thats\OneDrive\Documents\Sita.Aero\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.csproj.CopyComplete
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\nunit.engine.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\nunit.engine.api.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\nunit.engine.core.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\SitaTechAssessment.exe.config
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\SitaTechAssessment.exe
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\SitaTechAssessment.pdb
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\nunit.framework.dll
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\bin\Debug\nunit.framework.xml
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.csprojAssemblyReference.cache
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\DepartmentInfo.g.cs
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\MainWindow.g.cs
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\App.g.cs
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment_MarkupCompile.cache
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment_MarkupCompile.lref
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\DepartmentInfo.baml
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\MainWindow.baml
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.g.resources
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.Properties.Resources.resources
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.csproj.GenerateResource.cache
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.csproj.CoreCompileInputs.cache
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.csproj.CopyComplete
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.exe
+C:\Users\thats\OneDrive\Documents\Sita.Aero\Sita Assessment\SitaTechAssessment\SitaTechAssessment\obj\Debug\SitaTechAssessment.pdb

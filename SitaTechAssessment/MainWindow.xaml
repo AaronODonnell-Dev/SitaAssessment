@@ -1,0 +1,36 @@
+﻿<Window x:Class="SitaTechAssessment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SitaTechAssessment"
+        mc:Ignorable="d"
+        Title="Package System" Height="397.674" Width="800"
+        Loaded="Window_Loaded">
+    <Grid Background="AliceBlue" Margin="-2,0,2,-2">
+        <ListBox Background="LightGray"  Name="lbxParcels" HorizontalAlignment="Left" Height="217" Margin="33,81,0,0" VerticalAlignment="Top" Width="269" SelectionChanged="lbxParcels_SelectionChanged"/>
+        <ComboBox Name="cmbxSort" HorizontalAlignment="Left" Margin="105,26,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox IsReadOnly="True" Name="tbxSStreet" HorizontalAlignment="Left" Height="23" Margin="448,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox IsReadOnly="True" Name="tbxSHN" HorizontalAlignment="Left" Height="23" Margin="448,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox IsReadOnly="True" Name="tbxSPC" HorizontalAlignment="Left" Height="23" Margin="448,165,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox IsReadOnly="True" Name="tbxSCity" HorizontalAlignment="Left" Height="23" Margin="448,209,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Sort By :" HorizontalAlignment="Left" Margin="33,22,0,0" VerticalAlignment="Top" Width="54"/>
+        <TextBox IsReadOnly="True" Name="tbxRStreet" HorizontalAlignment="Left" Height="23" Margin="614,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox IsReadOnly="True" Name="tbxRHN" HorizontalAlignment="Left" Height="23" Margin="614,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox IsReadOnly="True" Name="tbxRPC" HorizontalAlignment="Left" Height="23" Margin="614,165,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox IsReadOnly="True" Name="tbxRCity" HorizontalAlignment="Left" Height="23" Margin="614,209,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Sender Address" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="448,46,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Recipient Address" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="614,46,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Name="btnLoad" Content="Load Packages" HorizontalAlignment="Left" Margin="248,26,0,0" VerticalAlignment="Top" Width="87" Height="22" Click="btnLoad_Click"/>
+        <TextBox IsReadOnly="True" Name="tbxType" HorizontalAlignment="Left" Height="23" Margin="448,314,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox IsReadOnly="True" Name="tbxChecked" HorizontalAlignment="Left" Height="23" Margin="614,314,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Associated Department" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="429,272,0,0" VerticalAlignment="Top" Width="149" Height="26"/>
+        <Label Content="Was Checked?" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="614,272,0,0" VerticalAlignment="Top" Width="120" Height="26"/>
+        <Label Content="Street Name :" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="333,81,0,0" VerticalAlignment="Top" Height="23" Width="88"/>
+        <Label Content="House Number :" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="321,123,0,0" VerticalAlignment="Top" Height="23" Width="100"/>
+        <Label Content="Postcode :" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="333,165,0,0" VerticalAlignment="Top" Height="24" Width="88"/>
+        <Label Content="City :" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="333,209,0,0" VerticalAlignment="Top" Height="25" Width="88"/>
+        <Button Name="EditDepartments" Content="Edit Departments" HorizontalAlignment="Left" Margin="115,314,0,0" VerticalAlignment="Top" Width="110" Height="35" Click="EditDepartments_Click"/>
+
+    </Grid>
+</Window>
